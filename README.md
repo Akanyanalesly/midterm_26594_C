@@ -61,6 +61,14 @@ Customer
 
 ---
 
+
+
+<img width="610" height="430" alt="Image" src="https://github.com/user-attachments/assets/bca37286-d1c2-4215-9476-76b551988407" />
+
+
+
+
+
 ## 🚀 Setup Instructions
 
 ### 1. Prerequisites
